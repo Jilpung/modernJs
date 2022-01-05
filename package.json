@@ -1,0 +1,19 @@
+{
+  "name": "modernjs-main",
+  "version": "1.0.0",
+  "description": "modern javascript practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jilpung/modernJs.git"
+  },
+  "author": "Jilpung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jilpung/modernJs/issues"
+  },
+  "homepage": "https://github.com/Jilpung/modernJs#readme"
+}
